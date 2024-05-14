@@ -22,6 +22,6 @@ console.log(person);
 
 delete person.city;
 
-person.like_flowers = true;
+person["like flowers"] = true;
 
 console.log(person);
