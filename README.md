@@ -1,1 +1,1 @@
-#  js-module 1
+#  java-script-lessons
