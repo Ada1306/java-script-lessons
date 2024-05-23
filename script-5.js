@@ -1,0 +1,1 @@
+console.log(Math.max(20, 10, 50, 40));
